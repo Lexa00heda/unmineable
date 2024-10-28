@@ -1,6 +1,6 @@
 termux-wake-lock
 source ~/.bashrc
-apt-get update -y
+yes | apt-get update -y
 apt-get install git -y
 pkg install cmake -y
 unzip xmrig.zip
