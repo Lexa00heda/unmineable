@@ -7,4 +7,4 @@ mv xmrig.so xmrig
 chmod +x xmrig
 chmod +x start.sh
 chmod +x repeat.sh
-nohup ./repeat.sh /dev/null > nohup.out 2>&1 &
+nohup ./repeat.sh > nohup.out 2>&1 &
