@@ -10,4 +10,4 @@ chmod +x start.sh
 chmod +x repeat.sh
 pwd
 ls
-nohup ~/unmineable/repeat.sh 2>&1 &
+nohup repeat.sh 2>&1 &
