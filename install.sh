@@ -1,4 +1,3 @@
-#!/bin/bash
 termux-wake-lock
 apt-get update -y
 apt-get install git -y
